@@ -140,7 +140,8 @@ This resource is **FREE** for the community. You may use and modify it as you wi
 If you encounter any issues or have suggestions:
 
 - Open an issue on GitHub
-- Contact me on Discord: [https://discord.gg/7Ds8V64fk8]
+- Contact me on Discord: [https://discord.gg/7Ds8V64fk8] --May or may NOT support you with this version as its a modified version
+- If support is needed or there are any bugs please note it on github
 - Leave a comment on the CFX forum post
 
 ---
