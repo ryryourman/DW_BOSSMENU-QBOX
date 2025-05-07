@@ -1,8 +1,8 @@
 # 🏢 DW Boss Menu - Advanced Job Management System
 
   
-![Version](https://img.shields.io/badge/Version-1.1.0-blue)
-![QB-Core](https://img.shields.io/badge/Framework-QB--Core-red)
+![Version](https://img.shields.io/badge/Version-1.1.1-blue)
+![QB-Core](https://img.shields.io/badge/Framework-QBOX-red)
 ![License](https://img.shields.io/badge/License-Free-brightgreen)
 
 ## 📋 Overview
@@ -120,7 +120,7 @@ Config.TargetSystem = "qb-target"  -- Options: "qb-target", "ox_target"
 
 ## 🔗 Dependencies
 
-- **QB-Core**: Framework
+- **QBOX**: Framework
 - **oxmysql**: Database handler
 
 
